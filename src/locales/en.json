@@ -1,0 +1,28 @@
+{
+  "ok": "OK",
+  "cancel": "Cancel",
+  "close": "Close",
+  "save": "Save",
+  "error": "Error",
+
+  "email": "Email",
+  "password": "Password",
+  "passwordConfirm": "Password Confirm",
+  "forgotPassword": "Forgot your password?",
+  "or": "or",
+  "noAccount": "Don't have a account ?",
+  "haveAccount": "You have a account",
+
+  "Loading": "Loading",
+  "Register": "Register",
+  "Login": "Login",
+  "ForgotPassword": "ForgotPassword",
+  "Chats": "Chats",
+  "Settings": "Settings",
+  "SettingsDetail": "SettingsDetail",
+  "Home": "Home",
+  "HomeDetail": "HomeDetail",
+  "Notification": "Notification",
+  "Cart": "Cart",
+  "Profile": "Profile"
+}
